@@ -204,6 +204,7 @@ img {
     min-width: 200px;
     border-radius: 4px;
     padding: 10px 32px;
+    border:none;
 
     font-weight: var(--bold-font-weight);
     font-size: var(--btn-font-size);
