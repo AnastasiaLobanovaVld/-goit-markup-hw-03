@@ -280,7 +280,9 @@ img {
 
 .work-list {
     display: flex;
+    margin: 0;
     padding-left: 0px;
+    padding-bottom: 0;
 }
 
 .work-item:not(:last-child) {
