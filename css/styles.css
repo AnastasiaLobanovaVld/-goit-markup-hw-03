@@ -80,7 +80,6 @@ img {
 }
 
 .section {
-    padding-top: 94px;
     padding-bottom: 94px;
 }
 
@@ -225,6 +224,9 @@ img {
 
 /* Benefits-section */
 
+.benefits-section {
+    padding-top: 94px;
+}
 .benefits-list {
     display: flex;
     padding-left: 0px;
@@ -365,10 +367,14 @@ footer {
 }
 
 /* PORTFOLIO */
+.works-section {
+    padding-top: 94px;
+}
+
 .works-list {
     display: flex;
     margin-top: 0;
-    margin-bottom: 34px;
+    margin-bottom: 53px;
     padding: 0;
     align-items: center;
     justify-content: center;
