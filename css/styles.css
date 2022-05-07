@@ -177,16 +177,19 @@ img {
 }
 
 /* HERO */
+.hero-container {
+    width: 670px;
+    padding: 0;
+}
+
 .hero-section {
+    padding-top: 200px;
+    padding-bottom: 200px;
     text-align: center;
 
     background-color: var(--hero-background-color);
 }
 
-.hero-container {
-    width: 670px;
-    padding: 0;
-}
 .hero-title {
     margin-bottom: 30px;
 
