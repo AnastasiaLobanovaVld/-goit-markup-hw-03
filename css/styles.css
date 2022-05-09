@@ -188,10 +188,6 @@ ul {
 }
 
 /* HERO */
-.hero-container {
-    width: 670px;
-}
-
 .hero-section {
     padding-top: 200px;
     padding-bottom: 200px;
@@ -201,7 +197,11 @@ ul {
 }
 
 .hero-title {
+    width: 696px;
     margin-bottom: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    
 
     font-weight: var(--black-font-weight);
     font-size: var(--hero-title-font-size);
@@ -213,7 +213,6 @@ ul {
 }
 
 .hero-btn {
-    text-align: center;
     min-width: 200px;
     border-radius: 4px;
     padding: 10px 32px;
@@ -450,7 +449,6 @@ footer {
 }
 
 .example-title {
-    margin-bottom: 4px;
 
     font-weight: var(--bold-font-weight);
     font-size: var(--portfolio-title-font-size);
